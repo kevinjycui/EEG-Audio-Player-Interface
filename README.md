@@ -7,4 +7,4 @@ Volume adjustment determined by upper facial expression motor cortex amplitude. 
 ## Interface
 Plays either Noisestorm's 2018 hit *Crab Rave* or Toby Fox's 2015 Undertale soundtrack *Megalovania*
 
-![display2](display02.JPG) ![display1](display01.JPG)
+![display2](display02.JPG)     ![display1](display01.JPG)
