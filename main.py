@@ -61,7 +61,7 @@ while not exit_flag:
 
    vol = round(pygame.mixer.music.get_volume()*100)
    
-   if res[1] == 'frown':
+   if res[1] == 'surprised':
        selection *= -1
        change = True
        
