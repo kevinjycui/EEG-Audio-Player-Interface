@@ -1,5 +1,5 @@
 # EEG-Music-Player
-An EEG application for brain-computer audio playing interface. Adjusts music settings using EEG motor cortex detection and analysis
+An EEG application for brain-computer audio playing interface. Adjusts music settings using spatial and temporal data from the synaptic transmissions of the motor cortex.
 
 ## Settings
 Volume adjustment determined by upper facial expression motor cortex amplitude. Audio source adjustment determined by overall facial expression displaying a 'surprised' expression.
